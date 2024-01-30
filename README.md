@@ -16,7 +16,7 @@
    
    Фрагмент исходного датасета с текстами [здесь](https://github.com/mannazhuk/exercise_generation/blob/bc1d860a37b01c53ed49889302d37da0a6c1b425/RuFoLa_corpus.csv).
    
-   [Здесь](https://github.com/mannazhuk/exercise_generation/blob/112aa2cda575384017468a16ee8b0af58f826e46/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80) можно скачать эмбеддинги полного набора текстов, полученные с помощью ruRoberta-large.
+   [Здесь](https://github.com/mannazhuk/exercise_generation/blob/e1212dedaeb29259d3f8d1f1a1677a8748cb5354/%D0%AD%D0%BC%D0%B1%D0%B5%D0%B4%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8%20%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2) можно скачать эмбеддинги полного набора текстов, полученные с помощью ruRoberta-large.
    
    Итоговая лучшая модель - [RKI_sber_rubert_large](Модель-классификатор)
 
