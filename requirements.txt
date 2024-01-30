@@ -1,0 +1,10 @@
+sklearn
+pandas
+torch
+matplotlib
+pymystem3 
+transformers 
+bitsandbytes 
+peft 
+trl 
+nltk
